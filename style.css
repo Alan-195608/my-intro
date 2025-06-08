@@ -1,14 +1,27 @@
+
 body {
-  background-color: #e6f0ff;
+  background-color: #f0f4f8;
   text-align: center;
   font-family: Arial, sans-serif;
+  padding: 40px;
 }
 
 h1 {
-  color: #0055cc;
+  color: #007acc;
+  font-size: 36px;
 }
 
 p {
-  color: #333333;
-  font-size: 18px;
+  color: #333;
+  font-size: 20px;
+  margin: 10px 0;
+}
+
+
+img.avatar {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 3px solid #007acc;
+  margin-bottom: 20px;
 }
